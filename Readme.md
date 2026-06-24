@@ -1,5 +1,5 @@
-### Leaning about zig programming language via ziglings
+### Learning about zig programming language via ziglings
 
-Using wonderfull ziglings https://codeberg.org/ziglings/exercises/ repo to learn about zig programming lanuguage
+Using wonderful ziglings https://codeberg.org/ziglings/exercises/ repo to learn about zig programming language
 
-Rewrating exemples from repo above and solving in parallel proplems with code and learn language :)
+Rewriting examples from repo above and solving in parallel problems with code and learning the language :)
